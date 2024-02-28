@@ -13,7 +13,7 @@ A file named ‘windows’ was given. First, I checked the type of given file:
 
 It was a Linux executable file. Then, I checked the strings present in the file using ‘strings filename’ command but found nothing interesting.
 
-As it was an executable file, I decided to view its source code by decompiling it using a website: [Decompiler Explorer](dogbolt.org)
+As it was an executable file, I decided to view its source code by decompiling it using a website: [Decompiler Explorer](https://www.dogbolt.org)
 
 ![decompiling](assets/img/writeups/rev/WindowsOfOppurtunity/decompiling.png)
 
